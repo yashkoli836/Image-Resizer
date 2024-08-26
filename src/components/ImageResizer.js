@@ -166,4 +166,3 @@ const ImageResizer = () => {
 };
 
 export default ImageResizer;
-
